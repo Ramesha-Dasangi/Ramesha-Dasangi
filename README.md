@@ -60,6 +60,6 @@
 ---
 
 ### ✨ Quote
-> "Learning never stops — every project makes you better than yesterday." 💙
+> "Never give up — obstacles are just steps 🌟" 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=70&section=footer" width="100%"/>
