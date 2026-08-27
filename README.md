@@ -37,7 +37,7 @@
 | [PharmaGo-MAD-Project](https://github.com/Ramesha-Dasangi/PharmaGo-MAD-Project) | Medicine ordering & delivery app | Java |
 | [CoconutHuskingSystem](https://github.com/Ramesha-Dasangi/CoconutHuskingSystem) | Coursework system design project | C++ |
 | [smart-gadget-marketplace](https://github.com/Ramesha-Dasangi/smart-gadget-marketplace) | Smart gadget marketplace | JavaScript |
-| CycloTrek Adventures | Full-stack tourism & adventure booking platform — Diploma final project | HTML · CSS · JS · PHP · MySQL |
+| [CycloTrek Adventures](https://github.com/Ramesha-Dasangi/CycloTrekAdventures-.git) | Full-stack tourism & adventure booking platform — Diploma final project | HTML · CSS · JS · PHP · MySQL |
 
 ---
 
