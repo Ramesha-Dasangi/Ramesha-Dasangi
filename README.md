@@ -1,4 +1,4 @@
-<div align="center">
+<img width="4032" height="272" alt="image" src="https://github.com/user-attachments/assets/e6f169e8-b368-483a-a353-0f1d62bd905a" /><img width="4032" height="227" alt="image" src="https://github.com/user-attachments/assets/59801790-29b5-4673-a2d6-ae2bd89647d4" /><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=130&section=header&text=Ramesha%20Dasangi&fontSize=36&fontColor=58A6FF&fontAlignY=42&desc=Software%20Engineering%20Student%20%C2%B7%20Aspiring%20Developer&descAlignY=68&descSize=16&descColor=8B949E" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Java+%7C+C+%7C+PHP+%7C+JavaScript;Full-Stack+Web+Development;Building+practical%2C+real-world+applications" alt="Typing SVG" />
@@ -15,9 +15,23 @@
 ---
 
 ### 🔗 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/ramesha-dasangi"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
-  <a href="https://github.com/Ramesha-Dasangi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
+
+<p align="center">
+  <a href="mailto:rameshadasangi4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email">
+  </a>
+
+  <a href="https://www.linkedin.com/in/ramesha-dasangi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn">
+  </a>
+
+  <a href="https://github.com/Ramesha-Dasangi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
+  </a>
+
+  <a href="https://ramesha-dasangi.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio">
+  </a>
 </p>
 
 ---
