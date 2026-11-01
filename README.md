@@ -16,22 +16,10 @@
 
 ### 🔗 Connect with Me
 
-<p align="center">
-  <a href="mailto:rameshadasangi4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email">
-  </a>
-
-  <a href="https://www.linkedin.com/in/ramesha-dasangi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn">
-  </a>
-
-  <a href="https://github.com/Ramesha-Dasangi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
-  </a>
-
-  <a href="https://ramesha-dasangi.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio">
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/ramesha-dasangi"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+  <a href="https://github.com/Ramesha-Dasangi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
+  <a href="https://github.com/Ramesha-Dasangi/Ramesha-Dasangi.github.io"
 </p>
 
 ---
